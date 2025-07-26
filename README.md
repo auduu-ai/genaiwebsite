@@ -1,2 +1,2 @@
-# genaiwebsite
-genaiwebsite
+# auduu.github.io 
+ auduu website 
